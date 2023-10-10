@@ -10,7 +10,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Holberton project
+ * for ALX project
  */
 typedef struct listint_s
 {
@@ -24,5 +24,6 @@ void free_listint(listint_t *head);
 
 int is_palindrome(listint_t **head);
 listint_t *reverse_list(listint_t **head);
+
 
 #endif /* LISTS_H */
