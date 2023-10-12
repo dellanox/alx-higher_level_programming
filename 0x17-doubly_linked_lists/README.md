@@ -88,7 +88,6 @@ This project talks about Python Data Structures and highlight the following poin
 
 
 Python lists:
-
 ---
 
 ## Author
