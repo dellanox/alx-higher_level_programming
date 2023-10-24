@@ -22,7 +22,7 @@ What you should learn from this project:
 * How to bind attributes to object and classes
 * What is and what does contain __dict__ of a class and of an instance of a class
 * How does Python find the attributes of an object or class
-* How to use the getattr function
+* How to use the getattr (get attribute) function
 
 ---
 
